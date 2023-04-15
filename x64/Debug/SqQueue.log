@@ -1,0 +1,3 @@
+﻿  yanghui.cpp
+D:\C++\数据结构\SqQueue\yanghui.cpp(60,3): warning C4809: 切换语句有多余的“default”标签；给定所有可能的“case”标签
+  SqQueue.vcxproj -> D:\C++\数据结构\SqQueue\x64\Debug\SqQueue.exe
